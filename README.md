@@ -1,2 +1,2 @@
 # linuxtips-aca-aws-eks-vanilla
-Repositório dp cluster mínimo de EKS
+Repositório do cluster mínimo de EKS
